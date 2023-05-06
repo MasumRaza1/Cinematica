@@ -1,8 +1,5 @@
 # Cinematica
 
-<p align = "center"><b>Cinematica app made in REACT with theme</b></p>
-<br>
-
 ## About
 Cinematica is a movie app developed using React. The app allows users to search for and discover information about movies and TV shows, as well as their favourite actors and actresses. The app comes with a theme implementation that offers users a choice between Light Mode and Dark Mode, ensuring a personalised and enjoyable user experience.
 
@@ -10,20 +7,9 @@ Cinematica uses an TVmaze API to fetch data on movies and TV shows. Users can se
 You can also view information page for a particular show which contains image, title, summary, details, seasons, and cast.
 
 Overall, Cinematica is a must-have app for anyone interested in movies and TV shows. With its sleek design, easy-to-use interface, and standout features, it's the perfect tool for discovering new content and keeping track of your favourites.
-
-<br>
-
-## Languages/Technologies
-- HTML
-- CSS (SASS)
-- REACT
-- VScode
-- API
-
 <br>
 
 ## Features
-
 ### THEME
 The Theme feature in Cinematica allows users to switch between two different themes - Light Mode and Dark Mode. The Light Mode theme features a bright and clean design with white backgrounds, while the Dark Mode theme uses a darker colour palette to reduce eye strain and make the app easier to use in low-light conditions.
 
@@ -52,9 +38,5 @@ Overall, Cinematica is a powerful and convenient app for anyone who loves movies
 ## Live Link
 
 
-
-<br>
-
-<h3 align="center">THANK YOU!</h3>
 
  
