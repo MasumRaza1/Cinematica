@@ -36,6 +36,7 @@ Overall, Cinematica is a powerful and convenient app for anyone who loves movies
 
 
 ## Live Link
+https://cinematicaapp.netlify.app/
 
 
 
