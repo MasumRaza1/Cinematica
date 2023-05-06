@@ -3,7 +3,7 @@
 <p align = "center"><b>Cinematica app made in REACT with theme</b></p>
 <br>
 
-## 📌 About
+## About
 Cinematica is a movie app developed using React. The app allows users to search for and discover information about movies and TV shows, as well as their favourite actors and actresses. The app comes with a theme implementation that offers users a choice between Light Mode and Dark Mode, ensuring a personalised and enjoyable user experience.
 
 Cinematica uses an TVmaze API to fetch data on movies and TV shows. Users can search for shows as well as actors, making it easy to find the information they need. The navigation panel contains two links - Shows and Starred. When users star a show, it will be added to their Starred section for easy access at any time. Even if the browser is closed, users can view their starred shows the next time they open the app.  
@@ -49,28 +49,7 @@ Overall, Cinematica is a powerful and convenient app for anyone who loves movies
 <br>
 
 
-## 📌 Live Link
-### https://gaganpreetkaurkalsi.github.io/Box-Office/#/
-
-<br>
-
-## 📌 Link to Portfolio 
-### https://gaganpreetkaurkalsi.netlify.app/
-
-<br>
-
-## 📌 Demo Video
-Here is a demo video of the working app
-
-
-
-https://user-images.githubusercontent.com/54144759/124657120-b911bf80-debf-11eb-89a0-eb1b43dc4a8f.mp4
-
-
-
-https://user-images.githubusercontent.com/54144759/124657212-d777bb00-debf-11eb-92e5-1a563cf4dcb3.mp4
-
-
+## Live Link
 
 
 
